@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+.head {
+    font-weight: bold;
+    color: rebeccapurple;
+}
+p {
+    padding: 30px 20px;
+    text-align: justify;
+}
+    
+}
